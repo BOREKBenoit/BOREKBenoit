@@ -7,14 +7,6 @@ Je suis un(e) passionné(e) de développement, bidouilleur(se) d’électronique
 - C/C++, Python, HTML/CSS
 - Git, PlatformIO, VS Code
 
-🌱 En ce moment, j’apprends :  
-- Le Machine Learning embarqué
-- Le Rust et le DevOps
-
-📫 Tu peux me contacter ici :  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonprofil)
-- 📧 ton.email@example.com
-
 ---
 
 ## ✨ Mes statistiques GitHub
