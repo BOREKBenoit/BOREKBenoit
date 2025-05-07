@@ -26,11 +26,7 @@ Je suis un(e) passionné(e) de développement, bidouilleur(se) d’électronique
 
 ## 🏆 Mes badges
 
-![Achievement](https://github.com/BOREKBenoit/BOREKBenoit/blob/main/assets/badge_pullshark.svg)
-![Achievement](https://github.com/BOREKBenoit/BOREKBenoit/blob/main/assets/badge_arctic.svg)
-
-*Badges automatiques : regarde tes [achievements ici](https://github.com/BOREKBenoit?tab=achievements)*  
-*(Remplace `tonpseudo` par ton vrai pseudo GitHub)*
+![Arduino](https://img.shields.io/badge/Arduino-hardware-green?logo=arduino)
 
 ---
 
