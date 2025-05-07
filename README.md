@@ -27,6 +27,7 @@ Je suis un(e) passionné(e) de développement, bidouilleur(se) d’électronique
 ## 🏆 Mes badges
 
 ![Arduino](https://img.shields.io/badge/Arduino-hardware-green?logo=arduino)
+![C++](https://img.shields.io/badge/C++-language-blue?logo=c%2b%2b)
 
 ---
 
