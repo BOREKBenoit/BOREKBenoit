@@ -1,6 +1,6 @@
 # Salut ! 👋 Moi c’est Benoit 
 
-Je suis un(e) passionné(e) de développement, bidouilleur(se) d’électronique et toujours curieux(se) d’apprendre de nouvelles choses !  
+Je suis un passionné de développement, bidouilleur d’électronique et toujours curieux d’apprendre de nouvelles choses !  
 
 🔧 Je travaille avec :  
 - Arduino, ESP32, capteurs 🌡️
