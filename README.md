@@ -19,17 +19,17 @@ Je suis un(e) passionné(e) de développement, bidouilleur(se) d’électronique
 
 ## ✨ Mes statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=tokyonight)
-![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=tokyonight)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=BOREKBenoit&show_icons=true&theme=tokyonight)
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=BOREKBenoit&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 Mes badges
 
-![Achievement](https://github.com/tonpseudo/tonpseudo/blob/main/assets/badge_pullshark.svg)
-![Achievement](https://github.com/tonpseudo/tonpseudo/blob/main/assets/badge_arctic.svg)
+![Achievement](https://github.com/BOREKBenoit/BOREKBenoit/blob/main/assets/badge_pullshark.svg)
+![Achievement](https://github.com/BOREKBenoit/BOREKBenoit/blob/main/assets/badge_arctic.svg)
 
-*Badges automatiques : regarde tes [achievements ici](https://github.com/tonpseudo?tab=achievements)*  
+*Badges automatiques : regarde tes [achievements ici](https://github.com/BOREKBenoit?tab=achievements)*  
 *(Remplace `tonpseudo` par ton vrai pseudo GitHub)*
 
 ---
